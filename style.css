@@ -1,0 +1,19 @@
+
+h1
+{
+	color:gray; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("creativegaga_2022-10_134875d8-25c3-4d82-aa31-74f54cd37a4c_Olympic_Games_Illustration_2.webp");
+	background-position: center;
+	background-size: cover;
+
+}
+
+#my_canvas{
+
+	border-width: 10;
+	background-color: white;
+	border-style: ridge;
+}
